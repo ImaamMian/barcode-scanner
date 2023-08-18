@@ -1,3 +1,3 @@
-# CS373_2023_Assignment_Barcode_Detection
+# Barcode Detection Programme
 
-This repository provides a Python 3 code skeleton for the image processing assignment of CompSci 373 in Semester 1, 2023.  This assignment will require you to use what we have studied in the image processing lectures to generate a software that detects barcodes in images of household items.  You will receive 10 marks for solving the barcode detection problem, and there will be an additional component for 5 marks, where you will extend upon the barcode detection in a separate file, and write a short reflective report about your extension.
+This repository is my barcode scanning application which uses different computer graphics techniques to scan a barcode from an image. The extension is using pyzbar and selenium to scan the data from the barcode and then search it up on the internet to see if there is a match for the barcode and if there is it displays the webpage
