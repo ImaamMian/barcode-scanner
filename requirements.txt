@@ -1,0 +1,17 @@
+matplotlib
+tkinter
+selenium
+PIL
+pyzbar
+opencv
+
+''' IMPORTANT PLEASE READ'''
+''' PLEASE READ- IF THE CODE IS NOT RUNNING IT IS BECAUSE THE VERSION OF CHROME I HAVE WAS DIFFERENT TO THE VERSION YOU HAVE TO FIX THIS
+PLEASE GO TO THIS WEBSITE https://sites.google.com/chromium.org/driver/downloads?authuser=0 AND DOWNLOAD THE CORRECT VERSION YOU CAN CHECK 
+REQUIREMENTS.TXT FILE FOR AN EXPLANATION MAKE SURE TO SET THE DOWNLOAD DIRECTORY TO THE SAME ONE THIS PYTHON FILE IS IN'''
+
+
+https://sites.google.com/chromium.org/driver/downloads?authuser=0 - this is for the chrome webdrivers first go on chrome and click on the 3 dots in the right side -> click on help -> about google chrome u will see the version of chrome here
+"If you are using Chrome version 114, please download ChromeDriver https://chromedriver.storage.googleapis.com/index.html?path=114.0.5735.90/
+If you are using Chrome version 113, please download ChromeDriver https://chromedriver.storage.googleapis.com/index.html?path=113.0.5672.63/
+If you are using Chrome version 112, please download ChromeDriver https://chromedriver.storage.googleapis.com/index.html?path=112.0.5615.49/"
